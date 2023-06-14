@@ -3,3 +3,6 @@ welcome to moet kitchen
  paneer 65
  kheer
  pasta
+chef special pasta 
+chef special chicken 65
+ chef special fried chicken
